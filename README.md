@@ -9,4 +9,3 @@ Garage Information: Access detailed insights into our bike garage services, ensu
 Technologies Used:
 Frontend: HTML, CSS
 Backend: PHP
-Database: MySQL
